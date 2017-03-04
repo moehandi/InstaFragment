@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">InstagramLikeFragmentBottom</string>
+
+    <array name="tab_name">
+        <item>Home</item>
+        <item>Search</item>
+        <item>Share</item>
+        <item>News</item>
+        <item>Profile</item>
+    </array>
+
+    <string name="add_stack">Add Stack</string>
+    <string name="add_fragment">Add Sub Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="favorite_fragment">Favorite Fragment</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="share_fragment">Share Fragment</string>
+
+
+</resources>
